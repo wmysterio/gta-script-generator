@@ -15,7 +15,7 @@ To generate the code, you need basic C# skills and an understanding of how SCM s
 
 | Advantages | Disadvantages |
 --- | ---
-| Automatic code generation for streams, missions, external scripts and SCM functions | Requirement for knowledge of a third-party programming language (C#) |
+| Automatic code generation for threads, missions, external scripts and SCM functions | Requirement for knowledge of a third-party programming language (C#) |
 | Automatic generation of labels and script variables | The ability to use the existing functionality and the ability to expand it in favor of convenience |
 | Using C# tools to increase development speed | There is a requirement to use a professional IDE (for example, Visual Studio) |
 | Improved type checking to reduce logical errors in development | Some of the things Sanny Builder can do are impossible to implement, so they are missing |
