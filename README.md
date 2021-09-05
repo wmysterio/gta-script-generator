@@ -2,6 +2,11 @@
 
 It is a tool that allows you to generate code for Sanny Builder using the modern `C#` programming language. Code generation occurs by converting existing methods into the equivalent of opcodes for the SCM script. Both regular code generation and direct compilation using Sanny Builder's CLI are supported.
 
+| Examples | Tutorials |
+--- | ---
+| ![Project Unknown](https://github.com/wmysterio/GTA-SA_Project-Unknown) | ![ENG](https://wmysterio.gitbook.io/gtasg/) |
+|  | ![RUS](https://wmysterio.gitbook.io/gtasg/v/ru/) |
+
 ![GTASG](http://ru-script.3dn.ru/_ld/6/08053124.png)
 
 ## Advantages and disadvantages
