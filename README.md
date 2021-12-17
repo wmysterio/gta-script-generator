@@ -12,9 +12,9 @@ It is a tool that allows you to generate code for Sanny Builder using the modern
 ## Supported versions
 | Game | Platform | Mode |
 --- | --- | ---
-| GTA 3 | PC | SCM, CLEO |
-| GTA VC | PC | SCM, CLEO |
-| GTA SA | PC | SCM, CLEO |
+| GTA 3 | PC | main.scm, CLEO 2.0.0.5 |
+| GTA VC | PC | main.scm, CLEO 2.0.0.5 |
+| GTA SA | PC | main.scm, CLEO 4.4.0 |
 
 ## Advantages and disadvantages
 
