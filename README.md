@@ -9,6 +9,13 @@ It is a tool that allows you to generate code for Sanny Builder using the modern
 
 ![GTASG](http://ru-script.3dn.ru/_ld/6/08053124.png)
 
+## Supported versions
+| Game | Platform | Mode |
+--- | --- | ---
+| GTA 3 | PC | SCM, CLEO |
+| GTA VC | PC | SCM, CLEO |
+| GTA SA | PC | SCM, CLEO |
+
 ## Advantages and disadvantages
 
 To generate the code, you need basic C# skills and an understanding of how SCM scripts work in GTA. Some things are hard enough to implement or not as convenient as we would like. Therefore, I will demonstrate all the pros and cons of this generator in the table below:
