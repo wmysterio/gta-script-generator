@@ -10,11 +10,11 @@ It is a tool that allows you to generate code for Sanny Builder using the modern
 ![GTASG](http://ru-script.3dn.ru/_ld/6/08053124.png)
 
 ## Supported versions
-| Game | Platform | Mode |
---- | --- | ---
-| GTA 3 | PC | main.scm, CLEO 2.0.0.5 |
-| GTA VC | PC | main.scm, CLEO 2.0.0.5 |
-| GTA SA | PC | main.scm, CLEO 4.4.0 |
+| Game | Platform | Version | Mode |
+--- | --- | --- | ---
+| GTA 3 | PC, not for DE | ? | main.scm, CLEO 2.0.0.5 |
+| GTA VC | PC, not for DE | ? | main.scm, CLEO 2.0.0.5 |
+| GTA SA | PC, not for DE | 1.0 | main.scm, CLEO 4.4.0 |
 
 ## Advantages and disadvantages
 
