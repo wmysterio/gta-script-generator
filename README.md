@@ -2,11 +2,6 @@
 
 It is a tool that allows you to generate code for Sanny Builder using the modern `C#` programming language. Code generation occurs by converting existing methods into the equivalent of opcodes for the SCM script. Both regular code generation and direct compilation using Sanny Builder's CLI are supported.
 
-| Examples | Tutorials |
---- | ---
-|  | ![ENG](https://wmysterio.gitbook.io/gtasg/) |
-| ![Project Unknown (main.scm)](https://github.com/wmysterio/GTA-SA_Project-Unknown) | ![RUS](https://wmysterio.gitbook.io/gtasg/v/ru/) |
-
 ![GTASG](http://ru-script.3dn.ru/_ld/6/08053124.png)
 
 ## Supported versions
@@ -30,3 +25,10 @@ To generate the code, you need basic C# skills and an understanding of how SCM s
 | Support for plugins written by experienced developers | Strong typing can make it difficult to override existing variables |
 | Supports 3 games (GTA III, VC, SA), modes "MAIN" and "CLEO" | The typical behavior of labels in Sanny Builder works differently from in generator |
 | Maximum matching of class names and functions to Sanny Builder | Supports only PC versions of games |
+
+## Other
+
+| Examples | Tutorials |
+--- | ---
+|  | ![ENG](https://wmysterio.gitbook.io/gtasg/) |
+| ![Project Unknown (main.scm)](https://github.com/wmysterio/GTA-SA_Project-Unknown) | ![RUS](https://wmysterio.gitbook.io/gtasg/v/ru/) |
