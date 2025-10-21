@@ -30,5 +30,4 @@ To generate the code, you need basic C# skills and an understanding of how SCM s
 
 | Examples | Tutorials |
 --- | ---
-|  | ![ENG](https://wmysterio.gitbook.io/gtasg/) |
-| ![Project Unknown (main.scm)](https://github.com/wmysterio/GTA-SA_Project-Unknown) | ![RUS](https://wmysterio.gitbook.io/gtasg/v/ru/) |
+| [Project Unknown (main.scm)](https://github.com/wmysterio/GTA-SA_Project-Unknown) | [RUS](https://wmysterio.gitbook.io/gta-script-generator) |
